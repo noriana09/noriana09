@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noriana Tzatzai</h1>
-<h3 align="center">Student at University of Crete</h3>
+<h3 align="center">MSc Student at University of Crete</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noriana09&label=Profile%20views&color=0e75b6&style=flat" alt="noriana09" /> </p>
 
